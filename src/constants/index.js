@@ -110,7 +110,7 @@ import {
     {
       title: "Javascript",
       company_name: "Rock Paper Scissors Game",
-      icon: rpsx,
+      icon: rps,
       iconBg: "#383E56",
 
       link:"https://rps-game-virid.vercel.app/",
