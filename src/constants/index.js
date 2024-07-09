@@ -16,6 +16,7 @@ import {
     currency,
     weather,
     amazon,
+    rps,
     carrent,
     jobit,
     tripguide,
@@ -92,13 +93,40 @@ import {
   
   const experiences = [
 
-    
+    {
+      title: "HTML & CSS",
+      company_name: "Amazon Clone",
+      icon: amazon,
+      iconBg: "#383E56",
+      date: "December 2023 - Feb 2024",
+      link:"https://amazonclone-lime-eight.vercel.app/",
+      points: [
+        "Got to know the basics to create a website using HTML and CSS",
+        "Created a responsive website using HTML and CSS",
+        "Created amazon website clone website using HTML and CSS",
+
+      ],
+    },
     {
       title: "Javascript",
+      company_name: "Rock Paper Scissors Game",
+      icon: rps,
+      iconBg: "#383E56",
+      date: "December 2023 - Feb 2024",
+      link:"https://rps-game-virid.vercel.app/",
+      points: [
+        "Learnt how to write code in javascript",
+        "Got to learn about DOM manipulation and event handling",
+        "Created a rock paper scissor game using javascript",
+      ],
+    },
+    {
+      title: "API & Javascript",
       company_name: "Currency Converter App",
       icon: currency,
       iconBg: "#383E56",
       date: "December 2023 - Feb 2024",
+      link:"https://project-currency-convertor.vercel.app/",
       points: [
         "First time got the feel to how websites actually work",
         "Also got learn about APIs which helps with providing live data to the website",
@@ -112,6 +140,7 @@ import {
       icon: weather,
       iconBg: "#383E56",
       date: "Feb 2024 - June 2024",
+      link:"",
       points: [
         "Learnt how is react better in comparison to Javascript and how is user-frinedly",
         "Learnt the role of components and how makes it easier to maintain and develop applications",

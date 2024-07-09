@@ -20,6 +20,7 @@ import threejs from "./tech/threejs.svg";
 import materialui from "./tech/materialui.png";
 import framermotion from "./tech/framermotion.png";
 import currency from "./company/currency.png";
+import rps from "./company/rps.webp";
 import weather from "./company/weather.png";
 import amazon from "./company/amazon.png";
 import carrent from "./carrent.png";
@@ -52,6 +53,7 @@ export {
   currency,
   weather,
   amazon,
+  rps,
   carrent,
   jobit,
   tripguide,
