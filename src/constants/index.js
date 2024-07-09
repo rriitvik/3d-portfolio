@@ -43,39 +43,48 @@ import {
     {
       name: "HTML 5",
       icon: html,
+      link:"https://www.w3schools.com/html/"
     },
     {
       name: "CSS 3",
       icon: css,
+      link : "https://www.w3schools.com/css/",
     },
     {
       name: "Tailwind CSS",
       icon: tailwind,
+      link:"https://tailwindcss.com/",
     },
     {
       name: "JavaScript",
       icon: javascript,
+      link:"https://developer.mozilla.org/en-US/docs/Web/JavaScript",
     },
 
     {
       name: "React JS",
       icon: reactjs,
+      link:"https://reactjs.org/",
     },
     {
       name:"Material UI",
-      icon:materialui
+      icon:materialui,
+      link:"https://mui.com/",
     },
     {
       name: "Three JS",
       icon: threejs,
+      link:"https://threejs.org/",
     },
     {
       name: "Framer Motion",
       icon: framermotion,
+      link:"https://www.framer.com/motion/",
     },
     {
-      name: "git",
+      name: "Git",
       icon: git,
+      link:"https://git-scm.com/",
     },
 
 
