@@ -175,7 +175,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rriitvik/3d-portfolio/tree/main",
     },
    
     {
@@ -197,7 +197,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rriitvik/3d-portfolio/tree/main",
     },
   ];
   
