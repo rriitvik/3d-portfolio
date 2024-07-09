@@ -98,7 +98,7 @@ import {
       company_name: "Amazon Clone",
       icon: amazon,
       iconBg: "#383E56",
-      date: "December 2023 - Feb 2024",
+
       link:"https://amazonclone-lime-eight.vercel.app/",
       points: [
         "Got to know the basics to create a website using HTML and CSS",
@@ -110,9 +110,9 @@ import {
     {
       title: "Javascript",
       company_name: "Rock Paper Scissors Game",
-      icon: rps,
+      icon: rpsx,
       iconBg: "#383E56",
-      date: "December 2023 - Feb 2024",
+
       link:"https://rps-game-virid.vercel.app/",
       points: [
         "Learnt how to write code in javascript",
@@ -125,7 +125,7 @@ import {
       company_name: "Currency Converter App",
       icon: currency,
       iconBg: "#383E56",
-      date: "December 2023 - Feb 2024",
+
       link:"https://project-currency-convertor.vercel.app/",
       points: [
         "First time got the feel to how websites actually work",
@@ -139,7 +139,7 @@ import {
       company_name: "Weather App",
       icon: weather,
       iconBg: "#383E56",
-      date: "Feb 2024 - June 2024",
+
       link:"",
       points: [
         "Learnt how is react better in comparison to Javascript and how is user-frinedly",
