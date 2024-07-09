@@ -18,7 +18,8 @@ const ExperienceCard = ({experience}) => (
       <img
         src={experience.icon}
         alt={experience.company_name}
-        className="w-[90%] h-[90%] object-fit rounded-full"
+        className="w-[90%] h-[90%] object-fit rounded-full hover:cursor-pointer"
+        onClick={() => window.open(experience.link)}
       />
     </div>
   }

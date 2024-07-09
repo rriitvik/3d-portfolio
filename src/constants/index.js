@@ -140,7 +140,7 @@ import {
       icon: weather,
       iconBg: "#383E56",
 
-      link:"",
+      link:"https://weatherproject-nine.vercel.app/",
       points: [
         "Learnt how is react better in comparison to Javascript and how is user-frinedly",
         "Learnt the role of components and how makes it easier to maintain and develop applications",
