@@ -176,6 +176,7 @@ import {
         },
       ],
       image: jobit,
+      web_link:"https://3d-portfolio-ten-henna.vercel.app/",
       source_code_link: "https://github.com/rriitvik/3d-portfolio/tree/main",
     },
    
@@ -198,6 +199,7 @@ import {
         },
       ],
       image: enormousengineer,
+      web_link:"https://enormous-engineers.vercel.app/",
       source_code_link: "https://github.com/rriitvik/enormous-engineers",
     },
   ];
