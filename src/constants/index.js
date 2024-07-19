@@ -20,6 +20,7 @@ import {
     carrent,
     jobit,
     tripguide,
+    enormousengineer,
     threejs,
     framermotion,
     materialui,
@@ -179,25 +180,25 @@ import {
     },
    
     {
-      name: "Fitness for Engineers",
+      name: "EnormousEngineers",
       description:
-        "A web application that allows users to create and track their fitness goals with limited time. The app is designed to be user-friendly and easy to use. ",
+        "A web application that allows engineers to create and track their fitness goals with limited time. The app is designed to be user-friendly and easy to use. ",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "javascript",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/rriitvik/3d-portfolio/tree/main",
+      image: enormousengineer,
+      source_code_link: "https://github.com/rriitvik/enormous-engineers",
     },
   ];
   

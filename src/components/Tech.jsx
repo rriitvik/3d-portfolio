@@ -24,7 +24,7 @@ const Tech = () => {
         <div
           className="w-28 h-28 relative"
           key={technology.name}
-          onClick={() => handleClick(technology)}
+          onDoubleClick={() => handleClick(technology)}
           onMouseOver={() => handleMouseOver(technology)}
           onMouseOut={handleMouseOut}
         >
