@@ -154,32 +154,41 @@ import {
 
   const projects = [
     {
-      name: "3D portfolio",
+      name: "Pokédex",
       description:
-        "A portfolio website that showcase my projects and skills through 3D animations. The website is fully responsive and works on any device. ",
+        "A digital encyclopedia that provides detailed information about various Pokémon species, including their abilities, types, and evolutions. ",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "threeJs",
+          name: "Restful-api",
           color: "green-text-gradient",
         },
-        {
-          name: "framerMotion",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "orange-text-gradient",
-        },
       ],
-      image: jobit,
-      web_link:"https://3d-portfolio-ten-henna.vercel.app",
-      source_code_link: "https://github.com/rriitvik/3d-portfolio/tree/main",
+      image: enormousengineer,
+      web_link:"https://pokedex-ritvik.vercel.app/",
+      source_code_link: "https://github.com/rriitvik/pokedex",
     },
-   
+    {
+      name: "Expense Tracker",
+      description:
+        "A tool to record, categorize, and analyze personal or business expenses, helping users manage and track their spending effectively. ",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "context-api",
+          color: "green-text-gradient",
+        }
+      ],
+      image: enormousengineer,
+      web_link:"https://expensetracker-ritvik.vercel.app/",
+      source_code_link: "https://github.com/rriitvik/expensetracker",
+    },
     {
       name: "EnormousEngineers",
       description:
@@ -201,7 +210,7 @@ import {
       image: enormousengineer,
       web_link:"https://enormous-engineers.vercel.app",
       source_code_link: "https://github.com/rriitvik/enormous-engineers",
-    },
+    }
   ];
   
   export {  technologies, experiences, projects };
